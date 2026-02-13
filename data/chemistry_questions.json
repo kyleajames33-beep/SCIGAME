@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "question": "Which subatomic particles are located in the nucleus of an atom?",
+      "options": ["Protons and electrons", "Neutrons and electrons", "Protons and neutrons", "Only electrons"],
+      "correctAnswer": 2,
+      "topic": "Atomic structure",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Isotopes of an element have the same number of _______ but a different number of _______.",
+      "options": ["protons, neutrons", "neutrons, protons", "electrons, protons", "neutrons, electrons"],
+      "correctAnswer": 0,
+      "topic": "Atomic structure",
+      "difficulty": "easy"
+    },
+    {
+      "question": "An atom has an atomic number of 17 and a mass number of 35. How many protons, neutrons, and electrons does it have?",
+      "options": ["17 protons, 18 neutrons, 17 electrons", "17 protons, 18 neutrons, 18 electrons", "18 protons, 17 neutrons, 17 electrons", "17 protons, 35 neutrons, 17 electrons"],
+      "correctAnswer": 0,
+      "topic": "Atomic structure",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A diagram shows two Bohr models. Atom A has 3 protons, 4 neutrons, and 3 electrons in two shells. Atom B has 3 protons, 3 neutrons, and 3 electrons in two shells. Which statement is correct?",
+      "options": ["A and B are different elements.", "A and B are isotopes of the same element.", "A is an ion and B is a neutral atom.", "A and B have the same mass number."],
+      "correctAnswer": 1,
+      "topic": "Atomic structure",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The relative atomic mass of chlorine is 35.45. This is because chlorine exists as a mixture of isotopes, primarily Chlorine-35 and Chlorine-37. What is the approximate abundance of Chlorine-35?",
+      "options": ["25%", "50%", "75%", "90%"],
+      "correctAnswer": 2,
+      "topic": "Atomic structure",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following elements is a halogen?",
+      "options": ["Sodium (Na)", "Neon (Ne)", "Fluorine (F)", "Calcium (Ca)"],
+      "correctAnswer": 2,
+      "topic": "The periodic table",
+      "difficulty": "easy"
+    },
+    {
+      "question": "As you move from left to right across a period in the periodic table, what trend is observed for atomic radius?",
+      "options": ["It increases", "It decreases", "It remains the same", "It increases then decreases"],
+      "correctAnswer": 1,
+      "topic": "The periodic table",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which group of elements on the periodic table is known for being unreactive and having a full outer shell of electrons?",
+      "options": ["Alkali metals (Group 1)", "Halogens (Group 17)", "Noble gases (Group 18)", "Alkaline earth metals (Group 2)"],
+      "correctAnswer": 2,
+      "topic": "The periodic table",
+      "difficulty": "easy"
+    },
+    {
+      "question": "An element is in Period 3 and Group 14. What is its identity?",
+      "options": ["Carbon (C)", "Silicon (Si)", "Germanium (Ge)", "Tin (Sn)"],
+      "correctAnswer": 1,
+      "topic": "The periodic table",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following properties generally decreases down a group in the periodic table?",
+      "options": ["Atomic radius", "Metallic character", "Ionisation energy", "Reactivity of metals"],
+      "correctAnswer": 2,
+      "topic": "The periodic table",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What type of chemical bond is formed when electrons are transferred from a metal to a non-metal?",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "correctAnswer": 0,
+      "topic": "Chemical bonding",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A diagram shows two atoms sharing a pair of electrons in their overlapping outermost shells. This represents a:",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Dispersion force"],
+      "correctAnswer": 1,
+      "topic": "Chemical bonding",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following substances contains covalent bonds?",
+      "options": ["Sodium chloride (NaCl)", "Methane (CH4)", "Copper (Cu)", "Potassium iodide (KI)"],
+      "correctAnswer": 1,
+      "topic": "Chemical bonding",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The 'sea of delocalised electrons' model is used to describe which type of bonding?",
+      "options": ["Ionic bonding", "Covalent bonding", "Metallic bonding", "Polar covalent bonding"],
+      "correctAnswer": 2,
+      "topic": "Chemical bonding",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following molecules contains a triple covalent bond?",
+      "options": ["Oxygen (O2)", "Nitrogen (N2)", "Hydrogen (H2)", "Chlorine (Cl2)"],
+      "correctAnswer": 1,
+      "topic": "Chemical bonding",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which type of intermolecular force is the strongest?",
+      "options": ["Dispersion forces", "Dipole-dipole forces", "Hydrogen bonding", "Covalent bonds"],
+      "correctAnswer": 2,
+      "topic": "Intermolecular forces",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A diagram shows two water molecules. A dotted line connects the hydrogen atom of one molecule to the oxygen atom of the other. This dotted line represents:",
+      "options": ["A covalent bond", "An ionic bond", "A hydrogen bond", "A dispersion force"],
+      "correctAnswer": 2,
+      "topic": "Intermolecular forces",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following molecules exhibits dipole-dipole forces?",
+      "options": ["Methane (CH4)", "Carbon dioxide (CO2)", "Hydrogen chloride (HCl)", "Nitrogen (N2)"],
+      "correctAnswer": 2,
+      "topic": "Intermolecular forces",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does methane (CH4) have a much lower boiling point than water (H2O)?",
+      "options": ["Methane has a higher molar mass.", "Methane only has weak dispersion forces, while water has strong hydrogen bonds.", "Methane is a gas at room temperature.", "Water is a polar molecule."],
+      "correctAnswer": 1,
+      "topic": "Intermolecular forces",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which of the following substances would have the highest boiling point?",
+      "options": ["F2", "Cl2", "Br2", "I2"],
+      "correctAnswer": 3,
+      "topic": "Intermolecular forces",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which state of matter is characterized by particles that are closely packed in a fixed arrangement and vibrate in place?",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correctAnswer": 0,
+      "topic": "States of matter and physical properties",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The melting point of a substance is the temperature at which it changes from a _______ to a _______.",
+      "options": ["solid, liquid", "liquid, gas", "gas, liquid", "liquid, solid"],
+      "correctAnswer": 0,
+      "topic": "States of matter and physical properties",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why do ionic compounds generally have high melting and boiling points?",
+      "options": ["They have weak intermolecular forces.", "They form a crystal lattice with strong electrostatic forces of attraction.", "They are good conductors of electricity.", "They are made of metal and non-metal atoms."],
+      "correctAnswer": 1,
+      "topic": "States of matter and physical properties",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A substance is a brittle solid at room temperature, has a high melting point, and conducts electricity only when molten or dissolved in water. What is the likely bonding type?",
+      "options": ["Ionic", "Covalent network", "Metallic", "Covalent molecular"],
+      "correctAnswer": 0,
+      "topic": "States of matter and physical properties",
+      "difficulty": "hard"
+    },
+    {
+      "question": "A diagram shows particles in a container. The particles are far apart and moving randomly and rapidly. This represents a:",
+      "options": ["Solid", "Liquid", "Gas", "Mixture"],
+      "correctAnswer": 2,
+      "topic": "States of matter and physical properties",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the electronic configuration of a neutral sodium atom (Na, atomic number 11)?",
+      "options": ["1s²2s²2p⁶3s¹", "1s²2s²2p⁷", "1s²2s²2p⁶3s²", "1s²2s²2p⁵3s²"],
+      "correctAnswer": 0,
+      "topic": "Electronic configuration and quantum numbers",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The principal quantum number (n) describes the:",
+      "options": ["shape of the orbital", "energy level of the electron", "orientation of the orbital", "spin of the electron"],
+      "correctAnswer": 1,
+      "topic": "Electronic configuration and quantum numbers",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following is the correct electronic configuration for a chloride ion (Cl⁻, atomic number 17)?",
+      "options": ["1s²2s²2p⁶3s²3p⁵", "1s²2s²2p⁶3s²3p⁶", "1s²2s²2p⁶3s²3p⁴", "1s²2s²2p⁶3s¹3p⁶"],
+      "correctAnswer": 1,
+      "topic": "Electronic configuration and quantum numbers",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many orbitals are in the p subshell (l=1)?",
+      "options": ["1", "3", "5", "7"],
+      "correctAnswer": 1,
+      "topic": "Electronic configuration and quantum numbers",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which quantum number distinguishes between the different orbitals within a subshell?",
+      "options": ["Principal quantum number (n)", "Azimuthal quantum number (l)", "Magnetic quantum number (ml)", "Spin quantum number (ms)"],
+      "correctAnswer": 2,
+      "topic": "Electronic configuration and quantum numbers",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Electronegativity is a measure of an atom's ability to:",
+      "options": ["lose electrons", "gain electrons", "attract electrons in a chemical bond", "form a metallic bond"],
+      "correctAnswer": 2,
+      "topic": "Electronegativity and polarity",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following elements is the most electronegative?",
+      "options": ["Fluorine (F)", "Oxygen (O)", "Chlorine (Cl)", "Nitrogen (N)"],
+      "correctAnswer": 0,
+      "topic": "Electronegativity and polarity",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A bond between two atoms with a large difference in electronegativity is likely to be:",
+      "options": ["Nonpolar covalent", "Polar covalent", "Ionic", "Metallic"],
+      "correctAnswer": 2,
+      "topic": "Electronegativity and polarity",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following molecules is nonpolar, despite having polar bonds?",
+      "options": ["Water (H₂O)", "Ammonia (NH₃)", "Carbon dioxide (CO₂)", "Hydrogen fluoride (HF)"],
+      "correctAnswer": 2,
+      "topic": "Electronegativity and polarity",
+      "difficulty": "hard"
+    },
+    {
+      "question": "A diagram shows a diatomic molecule with an arrow pointing from the less electronegative atom to the more electronegative atom, indicating the bond dipole. This molecule is:",
+      "options": ["Polar", "Nonpolar", "Ionic", "Metallic"],
+      "correctAnswer": 0,
+      "topic": "Electronegativity and polarity",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which of the following is a characteristic property of metals?",
+      "options": ["Brittle", "Dull", "Good conductor of heat and electricity", "Low melting point"],
+      "correctAnswer": 2,
+      "topic": "Properties of metals, non-metals, and metalloids",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Non-metals are typically:",
+      "options": ["Malleable and ductile", "Lustrous", "Insulators of heat and electricity", "Found on the left side of the periodic table"],
+      "correctAnswer": 2,
+      "topic": "Properties of metals, non-metals, and metalloids",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Metalloids (or semi-metals) have properties that are intermediate between those of metals and non-metals. Which of the following is a metalloid?",
+      "options": ["Aluminium (Al)", "Silicon (Si)", "Phosphorus (P)", "Sulfur (S)"],
+      "correctAnswer": 1,
+      "topic": "Properties of metals, non-metals, and metalloids",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why are metals malleable and ductile?",
+      "options": ["Because of the strong ionic bonds between the atoms.", "Because the layers of cations can slide over each other without breaking the metallic bonds.", "Because they have high electronegativity.", "Because they have a full outer shell of electrons."],
+      "correctAnswer": 1,
+      "topic": "Properties of metals, non-metals, and metalloids",
+      "difficulty": "hard"
+    },
+    {
+      "question": "A solid substance is observed to be lustrous, malleable, and a good conductor of electricity. This substance is most likely a:",
+      "options": ["Metal", "Non-metal", "Metalloid", "Ionic compound"],
+      "correctAnswer": 0,
+      "topic": "Properties of metals, non-metals, and metalloids",
+      "difficulty": "easy"
+    }
+  ]
+}
